@@ -19,7 +19,6 @@ oi! eu sou a Rafa, dev web full-stack! 💐
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-    <img src="https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
     <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white">
     <img src="https://img.shields.io/badge/-chai-%23E5E5E5?style=for-the-badge&logo=chai&logoColor=853232">
