@@ -1,43 +1,50 @@
 
-# Oie! 👋
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F787E0&random=false&width=435&lines=print(%22Hello%2C+world!%22)" alt="Typing SVG" /></a>
+---
 <img align="right" width="270" src="https://media.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
 
-```js
-import Desenvolvedor from "RafaPlinta";
+oi! eu sou a Rafa, dev web full-stack! 💐
 
-class SobreMim extends Desenvolvedor {
-  nome = "Rafaela Plinta";
-  area = "Full Stack Web Developer";
-}
 
-class Skills extends Desenvolvedor {
-  linguagens = ["JavaScript", "TypeScript"];
-  bibliotecas = ["React", "Redux", "RTL", "chai", "sinon", "mocha"];
-  frameworks = ["Node.js", "Express.js", "Jest"];
-}
-```
 
-## Linguagens e ferramentas
+<div>
+  
+  **✨💻  Eu programo com:**
+  <div>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+    <img src="https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
+    <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white">
+    <img src="https://img.shields.io/badge/-chai-%23E5E5E5?style=for-the-badge&logo=chai&logoColor=853232">
+  </div>
+</div>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png"></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_tile_logo_icon_168248.png"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"></code>
-<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxJcCgyTYDyAK9o3exhZB34AKyv-WfhkNu5mV50arspiSzUJOxR8GT6j7LdDHtjgYvco&usqp=CAU"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+---
 
-## Me ache
-<p align="left">
+<div>
+  
+**👩‍💻  Estou aprendendo:**
+  <div>
+        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/-pytest-%43B02A?style=for-the-badge&logo=pytest&logoColor=white">
+  </div>
+</div>
+
+---
+
+**Você me acha em:**
 <div> 
   <a href="mailto:ra.plinta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rafaplinta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/rafaplinta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-</p>
+
 
 
